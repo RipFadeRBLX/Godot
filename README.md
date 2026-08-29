@@ -28,6 +28,12 @@ Head over to the **main branch** to access the current version of the game. If y
 4. Add you files and name the branch the feature you added
 5. Ping me so I can merge the branch to the game
 
+**How to create a branch (Website)**
+1. Press the arrow next to the **main** branch
+2. Type the name of the feature you added
+4. Add you files in that branch
+5. Ping me so I can merge the branch to the game
+
 **Vidoe's to Watch**
 
 https://youtu.be/fZ-CJIYPFMI
