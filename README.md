@@ -8,7 +8,7 @@ Head over to the **main branch** to access the current version of the game. If y
 
 **How to get the game?**
 1. Open GitHub Desktop and sign in.
-2. Click File > Clone Repository...
+2. Click File then press Clone Repository
 3. Select your game repository from the list or click the URL tab and paste your Git repository link.
 4. Choose a Local Path (a folder on their computer) where the files will download.Click Clone.
 
@@ -26,4 +26,4 @@ Head over to the **main branch** to access the current version of the game. If y
 
 https://youtu.be/fZ-CJIYPFMI
 
-
+https://youtu.be/9yfNX0OdSAw
