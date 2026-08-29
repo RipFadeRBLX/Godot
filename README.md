@@ -4,8 +4,7 @@ Hello and welcome to the **Godot game repository!**
 
 This repository was set up so we can work on the game together and keep everything organized in one place.
 
-Head over to the **main branch** to access the current version of the game. If you see a new pull on the **Work Station** branch that means it contains the newest feature currently being worked on
-
+Head over to the **main branch** to access the current version of the game. If you see a new branch that means that is the current feature being worked on or is finished
 **How to get the game?**
 1. Open GitHub Desktop and sign in.
 2. Click File then press Clone Repository
@@ -21,6 +20,13 @@ Head over to the **main branch** to access the current version of the game. If y
 2. Open Godot
 3. Drop the folder that holds all the game files into godot
 4. Open and work
+
+**How to create a branch**
+1. Open GitHub Desktop
+2. Open the project
+3. Look for branch tab and press new branch
+4. Add you files and name the branch the feature you added
+5. Ping me so I can merge the branch to the game
 
 **Vidoe's to Watch**
 
